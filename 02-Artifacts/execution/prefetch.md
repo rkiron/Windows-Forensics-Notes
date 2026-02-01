@@ -3,17 +3,17 @@ Files with info about the programs/applications run on windows. (.pf extension)
 
 Location: `C:\Windows\Prefetch`directory
 
-## Contains
+Contains:
 - Last run time of application
 - No of times run
 - Files and device handles used by the file.
 
-## Used to find
+Used to find:
 - last executed programs
 - last executed/used files 
 - time of execution of a certain program
 
-## Tools to parse
+Tools to parse:
 - PECmd.exe (Prefetch Parser)
 
 *Commands*:
